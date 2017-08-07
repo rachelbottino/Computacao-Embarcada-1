@@ -29,11 +29,7 @@ Capacitar o aluno para projetar e desenvolver sistemas computacionais embarcados
 
 5.  Buscar e analisar documentação (datasheet) e extrair informações relevantes.
 
-# Outline
-
-## Objetivo
-
-Visão Geral do curso:
+# Visão Geral do curso:
 
 O domínio da programação e especificação de sistemas embarcados é essencial para o projeto de praticamente qualquer dispositivo eletrônico. Conceitos atuais tais como: IoT, Smart Grid, sistemas autônomos, fazem uso extensivo de computação embarcada para viabilização de seus projetos.
 
