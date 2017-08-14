@@ -4,7 +4,14 @@ author: Rafael Corsi - rafael.corsi@insper.edu.br
 date: 2017
 ---
 
-# Material de Aula
+# Aula 3
+
+Revisão de arquitetura de microcontroladores e introdução ao fluxo de desenvolvimento de microcontroladores (crosscompile). Apresentação do kit de desenvolvimento ([SAME70 XPLD](http://www.atmel.com/tools/atsame70-xpld.aspx)) utilizado no curso assim como o microcontrolador e família ARM.
+
+Uma atividade guiada é sugerida como primeiro contato com o ambiente de desenvolvimento e com a plataforma.
+
+
+## Material de Aula
 
 - Slides : 
     - [Revisão uC](https://github.com/Insper/Computacao-Embarcada/blob/master/1%20-%20Aulas/03%20-%20C%20para%20embarcados/03%20-%20%5BSlides%5D%20Reviao%20uC.pdf)
