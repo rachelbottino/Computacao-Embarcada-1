@@ -16,10 +16,6 @@ Entradas e saídas digitais são formas muito simples de controle e sensoriament
 
  - [Módulos](https://github.com/Insper/Computacao-Embarcada/wiki/Exemplos-de-entradas-e-sa%C3%ADdas-digitais)
 
-## Módulos digitais 
-
-
-
 ## Entregas 
 
 ### Entrega 1 (16/8)
